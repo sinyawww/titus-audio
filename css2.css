@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Maven Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/mavenpro/v25/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8SX25nA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Maven Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/mavenpro/v25/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8Rf25nA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Maven Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/mavenpro/v25/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8cLx5nA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Maven Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://fonts.gstatic.com/s/mavenpro/v25/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8Yzx5nA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0Uw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/rubik/v14/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf) format('truetype');
+}
